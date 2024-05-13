@@ -1,2 +1,1 @@
-# Superstore-
-With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
+The final project is related to predicting the price of an airline ticket, performing data analysis, processing the data, and comparing algorithms in predicting the price
